@@ -6,4 +6,4 @@ database = userbase
 user = stggrp  
 
 password = is13  
-
+UnityのGameClientのLibraryがアップ出来ませんでした
